@@ -1,15 +1,20 @@
-# HEADERS
+# Headers
 ## H2
 ### H3
 #### H4
 ##### H5
 ###### H6
 
-# IMAGE
+# Image
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
 
-# CODE EXAMPLE
+# Code Example
 ```
 $ git init
 Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.git/
 ```
+
+# Task List
+- [X] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
